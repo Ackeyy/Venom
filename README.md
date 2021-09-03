@@ -2,12 +2,13 @@
 This is a discord servers nuking tool
 <br>
 # Requirments
-- [Node.js](https://nodejs.org/en/)
-- <br>
-              Text editor 
+- [Node.js](https://nodejs.org/en/)<br>
+- Text editor 
 <br>
+
 # Steps
-1.Install discord.js `npm install discord.js` 
+
+1.Install discord.js `npm install discord.js`
 <br>
 2.Run `launch.bat`
 <br>
@@ -41,7 +42,9 @@ Kick All Members: -kall
 Server Annihilation: -die [text]
 <br>
 # Images
+
 ![image](https://user-images.githubusercontent.com/77635011/132035044-8115e6da-b256-4e35-999b-7dbe220a3b36.png)
+
 # Perms
 Bot should have admin perms or else it won't work
 
